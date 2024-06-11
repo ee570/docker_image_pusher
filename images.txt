@@ -9,3 +9,9 @@ fireflyiii/core:latest
 portainer/portainer-ee:latest
 portainer/portainer-ce:latest
 ghcr.io/blakeblackshear/frigate:stable
+homeassistant/home-assistant:latest
+nodered/node-red:latest
+eclipse-mosquitto:latest
+esphome/esphome:latest
+containrrr/watchtower:latest
+koenkk/zigbee2mqtt:latest
