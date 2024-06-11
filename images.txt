@@ -6,3 +6,5 @@ kasmweb/nginx:1.25.3
 linuxserver/calibre-web:version-0.6.21
 minio/minio:RELEASE.2024-05-28T17-19-04Z
 fireflyiii/core:latest
+portainer/portainer-ee:latest
+portainer/portainer-ce:latest
