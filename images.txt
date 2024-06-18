@@ -16,4 +16,4 @@ esphome/esphome:latest
 containrrr/watchtower:latest
 koenkk/zigbee2mqtt:latest
 ollama/ollama
-open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:main
