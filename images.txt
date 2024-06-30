@@ -19,3 +19,4 @@ ollama/ollama
 ghcr.io/open-webui/open-webui:main
 lscr.io/linuxserver/code-server:latest
 binaryify/netease_cloud_music_api:latest
+phpmyadmin:latest
