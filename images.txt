@@ -22,3 +22,4 @@ binaryify/netease_cloud_music_api:latest
 phpmyadmin:latest
 tomsquest/docker-radicale:latest
 volumioorg/volumio-dockcross-linux-x64:latest
+ckulka/baikal:nginx
