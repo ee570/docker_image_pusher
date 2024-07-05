@@ -23,3 +23,5 @@ phpmyadmin:latest
 tomsquest/docker-radicale:latest
 volumioorg/volumio-dockcross-linux-x64:latest
 ckulka/baikal:nginx
+vaultwarden/server:latest
+jc21/nginx-proxy-manager:latest
