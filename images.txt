@@ -21,7 +21,7 @@ lscr.io/linuxserver/code-server:latest
 binaryify/netease_cloud_music_api:latest
 phpmyadmin:latest
 tomsquest/docker-radicale:latest
-volumioorg/volumio-dockcross-linux-x64:latest
+jbonjean/volumio:latest
 ckulka/baikal:nginx
 vaultwarden/server:latest
 jc21/nginx-proxy-manager:latest
