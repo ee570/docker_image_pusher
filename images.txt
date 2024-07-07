@@ -25,3 +25,4 @@ jbonjean/volumio:latest
 ckulka/baikal:nginx
 vaultwarden/server:latest
 jc21/nginx-proxy-manager:latest
+deepquestai/deepstack:gpu
