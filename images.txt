@@ -1,4 +1,5 @@
 gitea/gitea:1.22.2-rootless
+postgres:15.8
 alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
