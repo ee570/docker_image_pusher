@@ -6,7 +6,7 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 linuxserver/calibre-web:version-0.6.21
-minio/minio:RELEASE.2024-08-29T01-40-52Z
+minio/minio:RELEASE.2024-09-13T20-26-02Z
 fireflyiii/core:latest
 portainer/portainer-ee:latest
 portainer/portainer-ce:latest
