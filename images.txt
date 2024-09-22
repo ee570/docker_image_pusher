@@ -1,3 +1,4 @@
+nastool/nas-tools:latest
 gitea/gitea:1.22.2-rootless
 postgres:14
 alpine
